@@ -137,8 +137,6 @@ let g = 25;
 let f = 5;
 let sum = g + f; //30
 
-console.log(sum);
-
 // 2. subtraction
 let d = 25;
 let e = 5;
